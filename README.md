@@ -3,7 +3,7 @@
 
 - Projelerime github adresimden ulaşabilirsiniz [https://github.com/dbst-6313](https://github.com/dbst-6313)
 
-- Bana buradan ulaşabilirsiniz **^Ali#6309**
+- Bana buradan ulaşabilirsiniz **Discord: ^Ali#6309**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
