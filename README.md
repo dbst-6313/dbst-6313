@@ -1,6 +1,6 @@
 <h3 align="center">Web development</h3>
 
-- I’m currently learning **React,Java,Spring**
+
 
 - Projelerime github adresimden ulaşabilirsiniz [https://github.com/dbst-6313](https://github.com/dbst-6313)
 
